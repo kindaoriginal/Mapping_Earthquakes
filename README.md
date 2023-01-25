@@ -1,4 +1,4 @@
-# Mapping Earthquakes Over the Past 5 Days
+# Mapping Earthquakes Over the Past 7 Days
 
 ## Project Overview
 
